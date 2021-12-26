@@ -1,9 +1,9 @@
-# hack-quizz
+# hack-quizizz
 
 
 ## Usage
 
-Step 1: start your quizz in https://quizizz.com/join/
+Step 1: start your quizizz in https://quizizz.com/join/
 
 Step 2: open console tab [Ctrl+Shift+J]
 
