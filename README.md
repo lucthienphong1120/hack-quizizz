@@ -1,5 +1,8 @@
 # hack-quizz
 
+
+## Usage
+
 Step 1: start your quizz in https://quizizz.com/join/
 
 Step 2: open console tab [Ctrl+Shift+J]
@@ -12,3 +15,6 @@ Step 3: paste this code
         .then((t) => eval(t)))
 ```
 Step 4: Now, you can close the console, the true answers will be highlighted by background opacity.
+
+## Screenshot
+<img src="screenshot_1.png"/>
